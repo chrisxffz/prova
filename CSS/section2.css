@@ -1,0 +1,40 @@
+.textos
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
+
+.texto1, .texto2, .texto3
+{
+    border: solid black;
+    padding: 1rem;
+    width: 300px;
+    
+}
+
+.texto1
+{
+    background-color: green;
+    color: #fff;
+}
+
+.texto2
+{
+    background-color: yellow;
+}
+
+.texto3
+{
+    background-color: #1a1aa0;
+    color: #fff;
+}
+
+footer
+    {
+    background-color: green;
+    color: #fff;
+    height: 100px;
+    text-align: center;
+    padding: 50px; 
+    }

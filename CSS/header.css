@@ -1,0 +1,23 @@
+header
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1a1aa0;
+    color: #fff;
+    align-items: center;
+}
+
+.logo
+{
+    border: solid #fff;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: green;
+}
+
+.INICIO, .HISTORIA, .CONTATO, .SOBRENOIS
+{
+    border: solid #fff;
+    padding: 1rem;
+    border-radius: 1rem;
+}
